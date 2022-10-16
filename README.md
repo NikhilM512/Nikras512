@@ -6,7 +6,7 @@
 <h3 align="center">A passionate 
   Full stack web developer from India</h3>
 
-<p><img align="center" src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif" /></p>
+<p><img align="center" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" /></p>
 
 
 
