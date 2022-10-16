@@ -1,20 +1,21 @@
 <!-- Github Banner Section-->
 <!-- [![Nikhils's GitHub Banner](./assets/GithubBanner.png)](https://nikhil-magar.github.io/) -->
 
-![logo](https://github.com/Nikras512/Nikras512/blob/main/banner_for_github.jpg?raw=true)
+
 
 <h1 align="center">Hi 👋, I'm Nikhil Magar</h1>
 <h3 align="center">A passionate 
   Full stack web developer from India</h3>
+  
+![logo](https://github.com/Nikras512/Nikras512/blob/main/banner_for_github.jpg?raw=true)
 
 <p><img align="center" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" /></p>
 
 
 
-
 - 🌱 I’m currently learning at **Masai School**
 
- - 👨‍💻 Resume & All of my projects are available at  <a href="">Click Me</a>  
+ - 👨‍💻 Resume & All of my projects are available at  <a href="https://drive.google.com/file/d/1GJJb4n_n1XwSPl6CJkFe06rRxRpgkF0u/view?usp=sharing">Click Me</a>  
 
 - 📫 How to reach me **nikhilmagar1995@gmail.com**
 
