@@ -7,7 +7,7 @@
 <h3 align="center">A passionate 
   Full stack web developer from India</h3>
   
-![logo](https://github.com/Nikras512/Nikras512/blob/main/banner_for_github.jpg?raw=true)
+<!-- ![logo](https://github.com/Nikras512/Nikras512/blob/main/banner_for_github.jpg?raw=true) -->
 
 <p><img align="center" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" /></p>
 
