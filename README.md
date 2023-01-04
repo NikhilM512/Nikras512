@@ -1,7 +1,7 @@
 <!-- Github Banner Section-->
 <!-- [![Nikhils's GitHub Banner](./assets/GithubBanner.png)](https://nikhil-magar.github.io/) -->
 <!-- <div align="center" justify="center" margin="auto"> -->
-<!-- ![Nikhils's_GitHub_Banner_GIF](https://github.com/Nikras512/Nikras512/blob/main/git.gif) -->
+![Nikhils's_GitHub_Banner_GIF](https://github.com/Nikras512/Nikras512/blob/main/Hello%20%F0%9F%91%8B%2C%20I'm%20Nikhil%2C%20An%20Aspiring%20Software%20Developer.gif)
 <!--   </div> -->
 
 
