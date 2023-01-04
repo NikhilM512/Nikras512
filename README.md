@@ -1,7 +1,7 @@
 <!-- Github Banner Section-->
 <!-- [![Nikhils's GitHub Banner](./assets/GithubBanner.png)](https://nikhil-magar.github.io/) -->
 
-![Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+![Hey there, I'm Nikhil. I'm a software developer, Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
 <h1 align="center">Hi 👋, I'm Nikhil Magar</h1>
 <h3 align="center">A passionate 
