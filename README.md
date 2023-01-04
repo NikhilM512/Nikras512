@@ -9,7 +9,7 @@
   
 <!-- ![logo](https://github.com/Nikras512/Nikras512/blob/main/banner_for_github.jpg?raw=true) -->
 
-<p><img align="center" src="[https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif](https://gr7800.github.io/static/media/bg1.d4a402f4b5da5590c675.gif)" /></p>
+<p><img align="center" src="[https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif](https://gr7800.github.io/static/media/bg1.d4a402f4b5da5590c675.gif)](https://gr7800.github.io/static/media/bg1.d4a402f4b5da5590c675.gif)" /></p>
 
 
 
