@@ -75,6 +75,6 @@
 <!-- |   ![Nikhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikras512&theme=rogue) | -->
 | :---: |
 
-| ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikras512&show_icons=true&theme=dark) | ![Nikhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikras512&theme=dark) |
+| ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikras512&show_icons=true&theme=radical) | ![Nikhil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikras512&theme=radical) |
 | :---: | :---: |
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikras512&theme=radical)
