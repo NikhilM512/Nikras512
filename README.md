@@ -1,5 +1,6 @@
 <!-- Github Banner Section-->
 <!-- [![Nikhils's GitHub Banner](./assets/GithubBanner.png)](https://nikhil-magar.github.io/) -->
+![Nikhils's GitHub Banner_GIF](https://github.com/Nikras512/Nikras512/blob/main/banner_for_github.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Nikhil Magar</h1>
