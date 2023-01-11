@@ -17,7 +17,7 @@
 
 Hello,
 
-I'm Nikhil, a Software Developer based in Sangli Maharashtra, Who is passionate about building user-friendly, easy-to-use applications, I like to explore new things and learn new technologies. I'm Currently learning the front-end skills like React, Redux, Chakra UI, JavaScript, CSS & HTML and back-emd skills like Node.js, Express.js & MongoDB and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community.
+I'm Nikhil, a Software Developer based in Sangli, Maharashtra. I'm passionate about building user-friendly, easy-to-use applications, I like to explore new things and learn new technologies. I'm Currently learning the front-end skills like React, Redux, Chakra UI, JavaScript, CSS & HTML and back-emd skills like Node.js, Express.js & MongoDB and looking to collaborate on Open-Source projects, with a goal to be more involved in the Community.
 
 
 - 🌱 I’m currently learning at **Masai School**
