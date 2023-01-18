@@ -92,7 +92,7 @@ I'm Nikhil, a Software Developer based in Sangli, Maharashtra. I'm passionate ab
 ![Nikhil's GitHub Streak](https://streak-stats.demolab.com/?user=Nikras512&theme=radical)
 <!-- (https://github-readme-streak-stats.herokuapp.com/?user=Nikras512&theme=radical)  -->
 
-![Nikhil's Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikras512&theme=radical)
+<!-- ![Nikhil's Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikras512&theme=radical) -->
 
 <!-- |   ![Nikhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikras512&theme=rogue) | -->
 <!-- | :---: | -->
