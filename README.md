@@ -51,6 +51,7 @@ I'm Nikhil, a Software Developer based in Sangli, Maharashtra. I'm passionate ab
  
 
 ## 🛠 My Toolkit : 
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -73,18 +74,27 @@ I'm Nikhil, a Software Developer based in Sangli, Maharashtra. I'm passionate ab
 <div>
 
 <!--  [![My Skills](https://skills.thijs.gg/icons?i=javaScript,spring,hibernate,maven,mysql,aws,js,html,css,git)](https://skills.thijs.gg) -->
+  
+ 
 # 💻 Tech Stack:
+  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 </div>
 
+
 ## Current Stats:
+
+ ![Nikhil's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikras512&theme=radical)
+ 
+![Nikhil's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=Nikras512&show_icons=true&theme=radical) 
+<!-- (https://github-readme-stats.vercel.app/api?username=Nikras512&show_icons=true&theme=radical) -->
+
+![Nikhil's GitHub Streak](https://streak-stats.demolab.com/?user=Nikras512&theme=radical)
+<!-- (https://github-readme-streak-stats.herokuapp.com/?user=Nikras512&theme=radical)  -->
+
+![Nikhil's Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikras512&theme=radical)
 
 <!-- |   ![Nikhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nikras512&theme=rogue) | -->
 <!-- | :---: | -->
 <!-- [![Nikhil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nikras512&bg_color=0d1117&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/Nikras512/github-readme-activity-graph)
  -->
-![Nikhil's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=Nikras512&show_icons=true&theme=radical) 
-<!-- (https://github-readme-stats.vercel.app/api?username=Nikras512&show_icons=true&theme=radical) -->
-![Nikhil's GitHub Streak](https://streak-stats.demolab.com/?user=Nikras512&theme=radical)
-<!-- (https://github-readme-streak-stats.herokuapp.com/?user=Nikras512&theme=radical)  -->
-![Nikhil's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikras512&theme=radical)
