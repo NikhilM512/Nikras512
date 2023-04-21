@@ -22,7 +22,9 @@ I'm Nikhil, a Software Developer based in Sangli, Maharashtra. I'm passionate ab
 
 - 🌱 I’m currently learning at **Masai School**
 
- - 👨‍💻 Resume & All of my projects are available at  <a href="https://drive.google.com/file/d/1GJJb4n_n1XwSPl6CJkFe06rRxRpgkF0u/view?usp=sharing">Click Me</a>  
+- 🗃️ All of my projects are available at my <a href="https://nikras512.github.io/">Portfolio</a>
+
+- 👨‍💻 For more details about me, checkout my <a href="https://drive.google.com/file/d/1GJJb4n_n1XwSPl6CJkFe06rRxRpgkF0u/view?usp=sharing">Resume</a>  
 
 - 📫 How to reach me **nikhilmagar1995@gmail.com**
 
